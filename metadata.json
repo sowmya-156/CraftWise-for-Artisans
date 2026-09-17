@@ -1,0 +1,11 @@
+{
+  "name": "CraftWise",
+  "description": "AI-driven marketplace and smart cataloging platform connecting marginalized artisans with buyers across handcrafted categories: One Photo. One Voice. Market Ready.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
